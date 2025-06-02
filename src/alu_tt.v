@@ -1,4 +1,4 @@
-module alu_tt (
+module tt_um_Rescobar_alu (
     input  wire [7:0] io_in,   // Control de operación y selección
     output wire [7:0] io_out
 );
