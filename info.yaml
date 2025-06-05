@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "ALU 4-bit"      
+  title:        "ALU 8-bit"      
   author:       "Rescobar"      
   discord:      "rescobar#0000"      
-  description:  "ALU con suma, resta, AND, OR en 4 bits"     
+  description:  "ALU con suma, resta, AND, OR en 8 bits"     
   language:     "Verilog"
   clock_hz:     0
 
